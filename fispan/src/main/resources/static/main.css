@@ -1,0 +1,41 @@
+table {
+    border-collapse: collapse;
+    padding-left:20px;
+}
+
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+    margin-left:20px;
+}
+
+.userApp {
+    padding-left:20px;
+}
+
+.userFilter {
+    padding-left:20px;
+}
+
+.userCreation {
+    padding-left:20px;
+}
+
+#main {
+	float:left;
+	width:250px;
+	background:#9c9;
+}
+
+#sidebar {
+	float:right;
+	width:250px;
+	background:#c9c;
+}
+
+h3 {
+	color: rgb(58, 150, 184);
+	font-weight: bold;
+    font-size: 26px;
+}
